@@ -21,7 +21,7 @@ int main() {
 
         }    
             arr1[b] = a;
-//n++; 
+ 
          printf("Updated array:\n");
     for (int i = 0; i < n; i++) {
         printf("%d ", arr1[i]);
