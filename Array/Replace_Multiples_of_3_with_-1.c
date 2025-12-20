@@ -4,6 +4,7 @@ int main (){
     printf("Enter elemen t of array:");
     scanf("%d",&n);
     int arr1[n];
+    printf("Enter number ");
     for (int i=0;i<n;i++)
     {
         scanf ("%d",&arr1[i]);
